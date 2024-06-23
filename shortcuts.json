@@ -1,0 +1,43 @@
+{
+    "KEY_LEFT": "cursor_left",
+    "KEY_DOWN": "cursor_down",
+    "KEY_UP": "cursor_up",
+    "KEY_RIGHT": "cursor_right",
+
+    "g": "scroll_top",
+    "G": "scroll_bottom",
+
+    "KEY_SLEFT": "scroll_left",
+    "KEY_SDOWN": "scroll_down",
+    "KEY_SUP": "scroll_up",
+    "KEY_SRIGHT": "scroll_right",
+
+    "KEY_TAB": "tab_open/next",
+    "KEY_BTAB": "tab_open/prev",
+
+    "KEY_ENTER": "interact",
+
+    "r": {
+        "r": "tab_reload",
+        "h": "tab_reload/hard",
+        "a": "tab_reload/all"
+    },
+    "t": "tab_new",
+
+    "w": {
+        "w": "tab_close/current",
+        "a": "tab_close/all",
+        "o": "tab_close/other",
+        "n": "tab_close/next",
+        "p": "tab_close/prev"
+    },
+    
+    "h": {
+        "h": "history_show",
+        "c": "history_clear",
+        "KEY_LEFT": "history_go/prev",
+        "KEY_RIGHT": "history_go/next",
+        "KEY_UP": "history_go/last",
+        "KEY_DOWN": "history_go/first"
+    }
+}
